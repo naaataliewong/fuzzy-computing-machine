@@ -17,4 +17,3 @@ Hello
 
 10. Almost the same as a red branch but works off prev release version
 
-Commit -a-m added release workflow in new hotfix-1.0.1 branch
